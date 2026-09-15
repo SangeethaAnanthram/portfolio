@@ -8,12 +8,7 @@
 
 > A high-performance, futuristic personal portfolio designed and engineered for **Anantharam Sangeetha** — Data Science Student, Python Developer, and Data Analyst. Built purely with semantic **HTML5**, modern **CSS3**, and **Vanilla JavaScript**, featuring glowing glassmorphism, dynamic floating background orbs, deep project case-study popups, and verified credential previews.
 
----
 
-## 🌐 Live Preview
-
-- **Live Hosted Site:** [https://sangeetha-s-portfolio-showcase-3359.lovable.app](https://sangeetha-s-portfolio-showcase-3359.lovable.app)
-- **GitHub Pages:** `https://<your-username>.github.io/<repository-name>/`
 
 ---
 
